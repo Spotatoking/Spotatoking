@@ -8,5 +8,5 @@ Learn C and C # coding languages to a beginner level(dunno what this entails yet
 My hobbies:
 Playing Badminton, reading sci fi and epic and dark fanstasy novels. Also like playing rpgs on all available platforms
 
-Why am I learing coding?
-To have an alternative to fallback on in case my discipline's core placements do not work out for me.
+Why am I learning coding?
+To have an alternative to fallback on in case my discipline's core placements do not work out for me.<!--[also actually want to go into game development, but am too scared to make the decision rn]>
