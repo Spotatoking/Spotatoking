@@ -2,7 +2,7 @@ About me:
 I'm currently a 2nd year Indian B.Tech student of the discipline Energy Engineering. I will be starting my 4th semester in January. 
 
 My goals for my 2026 Winter Semester:
-Finish one project each in MATLAB and COMSOL or a mix of Elmer and PreCICE
+Survive.
 
 My hobbies:
 Playing Badminton, reading sci fi and epic and dark fanstasy novels. Also like playing rpgs on all available platforms. Also making games
